@@ -54,7 +54,7 @@ The first configuration step is to enable the Hybrid App Toolkit plugin (this is
 
 In the Preferences page, click on **Features** on the left, scroll down to find the **Hybrid App Toolkit** plugin then enable it by clicking on the slider.
 
-![SAP Web IDE plugins options](pic3.png)
+![SAP Web IDE plugins options](pic3.jpg)
 
 
 [ACCORDION-END]
