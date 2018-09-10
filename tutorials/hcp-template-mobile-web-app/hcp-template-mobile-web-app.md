@@ -40,7 +40,7 @@ To open SAP Web IDE, click on the **Services** tab in the navigation bar, scroll
 
 On the service page, click on the **Open SAP Web IDE** link to open Web IDE in a new browser tab.
 
-![SAP Web IDE status page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_3.png)
+![SAP Web IDE status page](pic2.jpg)
 
 
 [ACCORDION-END]
@@ -54,7 +54,7 @@ The first configuration step is to enable the Hybrid App Toolkit plugin (this is
 
 In the Preferences page, click on **Features** on the left, scroll down to find the **Hybrid App Toolkit** plugin then enable it by clicking on the slider.
 
-![SAP Web IDE plugins options](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/pic3.png)
+![SAP Web IDE plugins options](pic3.png)
 
 
 [ACCORDION-END]
