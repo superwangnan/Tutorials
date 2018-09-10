@@ -26,7 +26,7 @@ You can build an intuitive and user-friendly portal freestyle sites by adding pa
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Access the Portal Admin Space)]
-  1. From SAP Cloud Platform [link](https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard), click **Services** from the left panel to open the services available for your subaccount.
+  1. From SAP Cloud Platform [link and please find your login information on the table](https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard), click **Services** from the left panel to open the services available for your subaccount.
   2. From the **Categories** dropdown list, select **User Experience** to see UX-related services.
   3. Click the **Portal** tile to open the service overview page.
   4. In the **Portal – Overview** page, click **Go to Service** to open the Portal.
