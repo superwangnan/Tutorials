@@ -45,7 +45,7 @@ Decoration                                                   | Meaning
 
 [ACCORDION-BEGIN [Step 1: ](Create new repository)]
 
-Open your SAP Cloud Platform Cockpit view, click on **Repositories > Git Repositories**.
+Open your SAP Cloud Platform Cockpit view (please use this [link](https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard) and find your username/password on the table), click on **Repositories > Git Repositories**.
 
 ![Git Repositories](mg3-3-01.png)
 
@@ -53,7 +53,7 @@ Click on New Repository, and enter the following:
 
 Field             | Value
 :---------------- | :----------------
-Name              | `northwind`
+Name              | `northwind-xx` ##xx could be any number
 Description       | `Repository for northwind app`
 
 Make sure the **Create empty commit** box is checked, click **OK** and your repository will be created.
@@ -66,7 +66,7 @@ Make sure the **Create empty commit** box is checked, click **OK** and your repo
 
 [ACCORDION-BEGIN [Step 2: ](Get repository URL)]
 
-Click on the **northwind** repository link to open the repository overview page.
+Click on the **northwind-xx** repository link to open the repository overview page.
 
 ![Created repo](mg3-3-03.png)
 
@@ -79,7 +79,7 @@ On the repository overview page, copy the **Git Repository URL**:
 
 [ACCORDION-BEGIN [Step 3: ](Open project in Web IDE)]
 
-Open SAP Web IDE in a browser window, and open your project folder (`northwind`). Note that there are no decorations next to your files.
+Open SAP Web IDE in a browser window, and open your project folder (`northwind`). If there is no project exist, please follow [this tutorial](https://github.com/superwangnan/Tutorials/blob/master/tutorials/hcp-template-mobile-web-app/hcp-template-mobile-web-app.md) to create one. Note that there are no decorations next to your files.
 
 ![project files with no Git status](mg3-3-05.png)
 
