@@ -21,7 +21,7 @@ tags: [  tutorial>beginner, products>sap-build ]
 ---
 
 [ACCORDION-BEGIN [Step 1: ](View Gallery applications)]
-Log in to your [SAP Build account](https://www.build.me/splashapp/).
+Log in to your [SAP Build account](https://www.build.me/splashapp/) and find your username/password on the table.
 
 ![gallery location in menu bar](1.png)
 
