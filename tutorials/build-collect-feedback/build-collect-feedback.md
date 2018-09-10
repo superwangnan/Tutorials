@@ -20,7 +20,7 @@ tags: [  tutorial>beginner, products>build>build ]
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Create a new study)]
-To create a new survey to send out to your end users, you will have to create a new study. To create a new study, click the **Create Study** button in the top tool bar in the UI Editor or on the prototype overview page.
+To create a new survey to send out to your end users, you will have to create a new study. To create a new study, click the **Create Study** button in the top tool bar in the UI Editor or on the prototype overview page. (if you don't have a prototype now, please follow [this tutorial](https://github.com/superwangnan/Tutorials/blob/master/tutorials/build-create-prototype/build-create-prototype.md) to create one)
 
 ![create study link on prototype editor](1.png)
 
