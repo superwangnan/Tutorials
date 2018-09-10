@@ -114,10 +114,6 @@ The input file, files or archive file will be sent as a `FormData` query paramet
 
 Log into the <a href="https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard" target="new"><b>SAP Cloud Platform Cockpit Neo </b></a> with your account on **CN1** and please **find your login information on the table**.
 
-Click on your ***SAP Cloud Platform Account*** identifier (which ends with *trial* by default) as highlighted on the below screenshot.
-
-![SAP Cloud Platform Cockpit](07-1.png)
-
 You are now in your ***SAP Cloud Platform developer*** account!
 
 ![Your Personal Developer Account](07-2.png)
