@@ -24,9 +24,9 @@ You will be setting a few configurations, then filling out a few forms in this s
 
 [ACCORDION-BEGIN [Step 1: ](Log into SAP Cloud Platform)]
 
-1. Go to <https://account.hanatrial.ondemand.com> and log in to your SAP Cloud Platform cockpit.
+1. Log in to your SAP Cloud Platform cockpit ([link](https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard) and please find your login information on the table.
 
-![SAP Cloud Platform login page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_1.png)
+![SAP Cloud Platform login page](pic1.jpg)
 
 
 [ACCORDION-END]
@@ -49,12 +49,12 @@ On the service page, click on the **Open SAP Web IDE** link to open Web IDE in a
 
 The first configuration step is to enable the Hybrid App Toolkit plugin (this is required for Web IDE to show the hybrid template you will use later). In the Web IDE tab, click on the **Tools** menu, then **Preferences**.
 
-![SAP Web IDE Tools menu](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_4.png)
+![SAP Web IDE Tools menu](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/pic2.jpg)
 
 
-In the Preferences page, click on **Plugins** on the left, scroll down to find the **Hybrid App Toolkit** plugin then enable it by clicking on the slider.
+In the Preferences page, click on **Features** on the left, scroll down to find the **Hybrid App Toolkit** plugin then enable it by clicking on the slider.
 
-![SAP Web IDE plugins options](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_5.png)
+![SAP Web IDE plugins options](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/pic3.png)
 
 
 [ACCORDION-END]
