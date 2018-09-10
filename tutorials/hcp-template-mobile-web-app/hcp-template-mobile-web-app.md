@@ -83,16 +83,16 @@ On the **Template Selection** page, click on the **Category** pulldown menu (whe
 
 ![SAP Web IDE template selection filtering](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_8a.png)
 
-![Selecting a template in Web IDE](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_8b.png)
+![Selecting a template in Web IDE](pic5)
 
 
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 7: ](Name the project)]
 
-On the **Basic Information** page of the New Project wizard enter the project name `northwind` and click **Next**. The project name will also become the name of your app when deployed.
+On the **Basic Information** page of the New Project wizard enter the project name `northwind-xx` (**xx could be any number to create a new project**) and click **Next**. The project name will also become the name of your app when deployed.
 
-![Entering the SAP Web IDE project name](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_9.png)
+![Entering the SAP Web IDE project name](pic6)
 
 
 [ACCORDION-END]
@@ -138,7 +138,7 @@ The URL you entered for your destination plus the relative path you enter here p
 
 Click the **Test** button to test the connection. If the connection is successful, the Service and its Collections of the Northwind OData Service will appear. This demonstrates that your destination is working properly. Click **Next** to advance to the **Template Customization** page.
 
-![Entering the remaining portion of an OData URL](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_13.png)
+![Entering the remaining portion of an OData URL](pic8.jpg)
 
 
 [ACCORDION-END]
@@ -152,11 +152,10 @@ Fill out the **Application Settings** as noted in the table below.
 Field Name                  |  Value
 :---------------------------| :-------------
 Type                        | `Standalone App`
-Title                       | `Products`
-Project Namespace           | `com.test.northwind`
 
 
-![SAP Web IDE template customization page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_15.png)
+
+![SAP Web IDE template customization page](pic9.jpg)
 
 
 [ACCORDION-END]
@@ -173,7 +172,7 @@ Object Title          | `ProductName`
 Object Numeric Attribute   | `UnitPrice`
 Object Unit of Measure     | `QuantityPerUnit`
 
-![SAP Web IDE template customization page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_16.png)
+
 
 
 [ACCORDION-END]
@@ -184,11 +183,10 @@ Scroll down to the **Data Binding - Line Item Section**. Fill out the Data Bindi
 
 Field Name              |  Value
 :-----------------------| :-------------
-Line Item Collection    | `Supplier`
-Line Item Collection    | `SupplierID`
-Line Item Title         | `CompanyName`
+Line Item Collection    | `Order_details`
+Line Item Collection ID    | `OrderID`
+Line Item Title         | `OrderID`
 
-![SAP Web IDE template customization page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_17.png)
 
 
 [ACCORDION-END]
