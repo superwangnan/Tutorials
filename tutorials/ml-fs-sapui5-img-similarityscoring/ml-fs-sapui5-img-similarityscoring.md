@@ -67,7 +67,7 @@ https://sandbox.api.sap.com/ml/similarityscoring
 
 To get to your API key, click on the **Show API Key** button.
 
-You will be prompted to login if you are not yet.
+You will be prompted to login if you are not yet (**please find your login information on the table**).
 
 Then, the following pop-up should appear. Click on the **Copy Key and Close** button and save it in a text editor.
 
@@ -112,7 +112,7 @@ The input file, files or archive file will be sent as a `FormData` query paramet
 
 [ACCORDION-BEGIN [Step 3: ](Access the SAP Cloud Platform Cockpit)]
 
-Log into the <a href="https://account.hanatrial.ondemand.com/cockpit#/region/neo-eu1-trial/overview" target="new"><b>SAP Cloud Platform Cockpit Neo Trial</b></a> with your free trial account on **Europe (Rot) - Trial** and access ***Your Personal Developer Account***.
+Log into the <a href="https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard" target="new"><b>SAP Cloud Platform Cockpit Neo </b></a> with your account on **CN1** and please **find your login information on the table**.
 
 Click on your ***SAP Cloud Platform Account*** identifier (which ends with *trial* by default) as highlighted on the below screenshot.
 
