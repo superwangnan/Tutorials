@@ -24,7 +24,7 @@ In this tutorial, you will explore some of the new features that are part of the
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Open SAP Web IDE Full Stack)]
-Make sure you have the SAP Web IDE Full-Stack open.
+Make sure you have the SAP Web IDE Full-Stack open (please use this [link](https://webidecp-labhjyi7np.dispatcher.cn1.hana.ondemand.com) and find your username/password on the table).
 
 ![sap web ide multi-cloud service](1.png)
 
@@ -69,7 +69,7 @@ You may be prompted for a username and password. Enter your credentials for the 
 
 ![login for SAP API Business Hub](6b.png)
 
-If you successfully login, a list of services will populate in the Services pane. **In the search box, type _employee_** to find the services available for employee information.
+If you successfully login (please use the username/password on the table), a list of services will populate in the Services pane. **In the search box, type _employee_** to find the services available for employee information.
 
 ![Services search on Data Connection page of wizard](7.png)
 
