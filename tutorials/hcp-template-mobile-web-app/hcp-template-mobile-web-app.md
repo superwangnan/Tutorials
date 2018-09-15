@@ -40,7 +40,7 @@ To open SAP Web IDE, click on the **Services** tab in the navigation bar, scroll
 
 On the service page, click on the **Go to service** link to open Web IDE - Full Stack in a new browser tab.
 
-![SAP Web IDE status page](fullstack.jpg)
+![SAP Web IDE status page](full stack.jpg)
 
 
 [ACCORDION-END]
