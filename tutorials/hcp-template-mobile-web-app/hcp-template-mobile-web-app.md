@@ -38,7 +38,7 @@ To open SAP Web IDE, click on the **Services** tab in the navigation bar, scroll
 ![SAP Cloud Platform Subscriptions page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_2.png)
 
 
-On the service page, click on the **Go to service** link to open Web IDE in a new browser tab.
+On the service page, click on the **Go to service** link to open Web IDE - Full Stack in a new browser tab.
 
 ![SAP Web IDE status page](pic2.jpg)
 
