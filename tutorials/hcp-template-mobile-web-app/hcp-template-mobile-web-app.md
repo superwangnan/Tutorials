@@ -35,12 +35,12 @@ You will be setting a few configurations, then filling out a few forms in this s
 
 To open SAP Web IDE, click on the **Services** tab in the navigation bar, scroll down and then click the **SAP Web IDE- full stack** tile to open the SAP Web IDE service page.
 
-![SAP Cloud Platform Subscriptions page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_2.png)
+![SAP Cloud Platform Subscriptions page](services.jpg)
 
 
 On the service page, click on the **Go to service** link to open Web IDE - Full Stack in a new browser tab.
 
-![SAP Web IDE status page](pic2.jpg)
+![SAP Web IDE status page](fullstack.jpg)
 
 
 [ACCORDION-END]
