@@ -24,16 +24,16 @@ You will be setting a few configurations, then filling out a few forms in this s
 
 [ACCORDION-BEGIN [Step 1: ](Log into SAP Cloud Platform)]
 
-1. Log in to your SAP Cloud Platform cockpit ([link](https://account.cn1.hana.ondemand.com/cockpit#/globalaccount/192c998a-cfe2-4e07-bcbd-aeca68dff178/neosubaccount/dec701f0-e7dd-4be8-a31b-0e66d0ec40b2/accountdashboard) and please find your login information on the table.
+1. Go to https://account.hanatrial.ondemand.com and log in to your SAP Cloud Platform cockpit.
 
 ![SAP Cloud Platform login page](pic1.jpg)
 
 
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 2: ](Open SAP Web IDE)]
+[ACCORDION-BEGIN [Step 2: ](Open SAP Web IDE - Full Stack)]
 
-To open SAP Web IDE, click on the **Services** tab in the navigation bar, scroll down and then click the **SAP Web IDE** tile to open the SAP Web IDE service page.
+To open SAP Web IDE, click on the **Services** tab in the navigation bar, scroll down and then click the **SAP Web IDE- full stack** tile to open the SAP Web IDE service page.
 
 ![SAP Cloud Platform Subscriptions page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-template-mobile-web-app/mob1-2_2.png)
 
